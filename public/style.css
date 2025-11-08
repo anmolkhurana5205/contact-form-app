@@ -7,8 +7,8 @@ body {
 
 .btn-primary {
   color: #fff;
-  background-color: #f89fba;
-  border-color: #f89fba;
+  background-color: #cb0000;
+  border-color: #ffffff;
 }
 .containerFormSubmittedMessage {
   display: flex;
